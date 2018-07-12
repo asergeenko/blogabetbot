@@ -1,0 +1,1 @@
+Telegram bot to get tips from blogabet.com
